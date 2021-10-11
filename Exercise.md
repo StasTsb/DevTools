@@ -12,7 +12,7 @@
     <br>2. Открыть Chrome DevTools
     <br>3. Зайти в панель Elements
 	<br>4. Найти инспектором кнопку Submit и выровнять слово Submit по центру
-    <td><img src="https://github.com/StasTsb/DevTools/blob/2a400169ac2d2767a53f5a5c7e6f1a5de5cc3525/screen/2Dev.png" width="640" height="426"></td>
+    <td><img src="https://github.com/StasTsb/DevTools/blob/2a400169ac2d2767a53f5a5c7e6f1a5de5cc3525/screen/2Dev.png" width="340" height="126"></td>
    </tr>
    <tr>
     <td>5. Выставить Dimensions: Responsive
