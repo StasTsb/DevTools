@@ -4,7 +4,6 @@
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Тег table</title>
  </head>
  <body>
   <table border="1">
@@ -102,3 +101,5 @@
  </table>
  </body>
 </html>
+
+
