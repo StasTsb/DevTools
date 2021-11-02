@@ -80,7 +80,7 @@
     <td><img src="https://github.com/StasTsb/DevTools/blob/70d20972935617ceeb47c537f11ade737c4e540e/screen/12Dev.png" width="340" height="126"></td>
   </tr>
     <tr>
-    <td>43.Найти интерфейс для изменения User-Agent.
+    <td>43. Найти интерфейс для изменения User-Agent.
     <br>44. Подставить другой User-Agent. 
     <br>45. Отправить запрос на http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name
     <br>46. Проверить изменился ли ваш нативный User-Agent на новый, подставленный.
@@ -89,7 +89,7 @@
     <td><img src="https://github.com/StasTsb/DevTools/blob/70d20972935617ceeb47c537f11ade737c4e540e/screen/14Dev.png" width="340" height="126"></td>
   </tr>
     <tr>
-    <td>49.айти интерфейс для изменения/добавления параметров Throttling.
+    <td>49. Найти интерфейс для изменения/добавления параметров Throttling.
     <br>50.Создать свои параметры плохого соединения и проверить как будет загружаться страница.
    <td><img src="https://github.com/StasTsb/DevTools/blob/70d20972935617ceeb47c537f11ade737c4e540e/screen/15Dev.png" width="340" height="126"></td>
   </tr>
